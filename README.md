@@ -1,16 +1,9 @@
 - 👋 Hi, I’m @DataNinja00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in coding, i like to play with data.
+- 🌱 I’m currently learning data analysis 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me ... on instagram @mewsum_11
+- 😄 She/He
+- ⚡ Fun fact: I like to play with data.
 <!---
-DataNinja00/DataNinja00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->Hello!, I am DataNinja00
-I have interest in coding, i like to play with data.
-As i am cursious and always ready to learn new things !
-You can reach me on instagram @mewsum_11
 
